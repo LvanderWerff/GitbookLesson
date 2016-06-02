@@ -11,4 +11,4 @@ multiline code
 code line 1
 code line 2
 ```
-![](IMG_20160202_101508.jpg)
+![](3D Slicer at ResBaz.jpg)
